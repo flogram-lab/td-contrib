@@ -1,4 +1,4 @@
-module github.com/gotd/contrib
+module github.com/flogram-lab/td-contrib
 
 go 1.21
 
